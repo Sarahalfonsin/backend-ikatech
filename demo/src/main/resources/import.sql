@@ -1,0 +1,21 @@
+
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato azul', 5000,'G40','1.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato rojo', 5000,'G40','2.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato verde', 5000,'G40','3.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato gris', 5000,'G40','4.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato cafe', 5000,'G40','5.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato miel', 5000,'G40','6.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato aguamarina', 5000,'G40','7.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato piel', 5000,'G40','8.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato perla', 5000,'G40','9.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato marinado', 5000,'G40','10.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato azul1', 5000,'G40','11.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato azul2', 5000,'G40','12.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato azul3', 5000,'G40','13.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato azul4', 5000,'G40','14.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato azul5', 5000,'G40','15.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato azul6', 5000,'G40','16.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato azul7', 5000,'G40','17.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato azul8', 5000,'G40','18.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato azul9', 5000,'G40','19.jpg');
+INSERT INTO producto (nombre, precio,referencia,foto)VALUES('Zapato azul10', 5000,'G40','20.jpg');
